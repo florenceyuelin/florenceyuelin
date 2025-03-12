@@ -1,6 +1,5 @@
 ### 👋 Welcome! I'm @florenceyuelin, I go by Yue
 
-- 👀 I’m interested in political economy, corporate influence, and computational social sciences
-- 🩰 Wild cheetah conservation, snow mountain hiking, and musicals are my fav after work
+- 👀 I’m interested in geopolitics \& economic security, Congress, corporate influence, and computational social sciences
 - 😎 I look forward to collaborating on cool projects
 - ✉ Contact me: [email](mailto:florenceyuelin@berkeley.edu)
